@@ -4,7 +4,7 @@ to see your co-workers work
 and to make a rework
 
 Git is cool
-and used as a tool
+and is used as a tool
 to create software
 out of nowhere
 

@@ -1,0 +1,33 @@
+# GITit
+## Interpret: KRI
+
+Whats your favourtie **VCS**  
+Wait, i'dont care  
+Nothings tops git, thats it  
+Simple, yet so powerful  
+
+Starting of your project  
+Start with **git init**  
+Put all your work on stage  
+Get them there with **git add**  
+
+Commit the stages to save our work  
+Keep track of your progress  
+Keep track of all the changes  
+Make use of **git commit**  
+
+Feeling safe with what you've done?  
+Want remote saves of what you've created?  
+Want for others to see your code?  
+Lay back after **pushing**, because your done  
+
+Ever made mistakes?  
+Don't feel helpless  
+Check it out  
+Use **checkout** and your back  
+Back where you want to be  
+
+Ever seen something special?  
+Get it now!  
+Get a **clone** of what you want  
+Git clone and your done  

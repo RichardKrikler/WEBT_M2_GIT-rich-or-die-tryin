@@ -1,5 +1,5 @@
 # GITit
-## Interpret: KRI
+## Interpreter: KRI
 
 Whats your favourtie **VCS**  
 Wait, i'dont care  
